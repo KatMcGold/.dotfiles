@@ -1,0 +1,11 @@
+Katherine McGoldrick
+
+I started by using the vim command to make .vimrc. Then while in normal mode AI was able to set the paramerts like adding line numbers with the commands below. I also changed the colourcheme to peachpuff. Using "w" and "q", and saved and quite out of VIM and changed the name of the filed into "mcgoldk_lab02_guided.txt" using the "cp" command. Lastly i used the "mv" command to move the file onto the desktop. 
+Some problems I encountered was I kept forgetting to add the colon before entering commands, so it took longer because I kept having to enter the commands twice. I also struggled with spelling.
+
+Syntax on
+set ruler
+set autoindent
+set number
+ set ignorecase
+ color peachpuff
